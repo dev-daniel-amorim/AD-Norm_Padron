@@ -11,3 +11,8 @@ Abordaremos dois tipos de redimensionamento de dados:
 ## Notebook
 [Clique para ver o notebbok da aula](https://github.com/dev-daniel-amorim/AD-Norm_Padron/blob/main/Normaliza%C3%A7%C3%A3o%20e%20padroniza%C3%A7%C3%A3o.ipynb)
  
+<br>
+<br>
+<hr>
+
+[<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
