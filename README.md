@@ -1,8 +1,8 @@
 # Redimensionamento dos dados
 
-## Normalização
+## 1. Normalização
 
-## Padronização
+## 2. Padronização
 
 ## Notebook
 [Clique para ver o notebbok da aula]()
